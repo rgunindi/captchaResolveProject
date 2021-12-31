@@ -1,0 +1,8 @@
+uret.sh
+/images2
+*.DsStore
+*.DS_Store
+/images
+/captcha_images_v2
+captcha_images_v2
+captcha_images_v2.tar.gz
